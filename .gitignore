@@ -1,0 +1,8 @@
+.env
+coverage.out
+.terraform
+.terraform.*
+terraform.tfstate.backup
+terraform.tfstate
+infrastucture/terraform.tfvars
+.DS_Store
